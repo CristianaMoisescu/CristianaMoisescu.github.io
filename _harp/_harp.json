@@ -162,6 +162,7 @@
         "published": "2014-03-09",
         "category": "Social issues",
         "publisher": "SOAS Spirit",
+        "image": "/img/articles/the-price-of-a-family-too-high-for-some-students.jpg",
         "tags": "immigration, students, features"
       },
       {
@@ -170,6 +171,7 @@
         "link": "http://soasspirit.co.uk/features/the-grand-budapest-hotel-the-phoenix-cinema/",
         "image": "http://soasspirit.co.uk/wp-content/uploads/2014/03/page-29-Grand-Budapest-Hotel-CREDITS-Fox-Searchlight-CAPTION-M.-Gustave-Ralph-Fiennes-and-Zero-Tony-Revolori-form-a-grand-pair-in-the-Grand-Budapest-Hotel.jpg",
         "published": "2014-03-02",
+        "tags": "film reviews",
         "category": "Culture",
         "publisher": "SOAS Spirit"
       },
@@ -197,7 +199,7 @@
         "headline": "Only Lovers Left Alive",
         "perma": "only-lovers-left-alive",
         "link": "http://soasspirit.co.uk/features/only-lovers-left-alive/",
-        "image": "http://soasspirit.co.uk/wp-content/uploads/2014/02/only-lovers-left-alive02.jpghttp://soasspirit.co.uk/wp-content/uploads/2014/02/only-lovers-left-alive02.jpg",
+        "image": "http://ia.media-imdb.com/images/M/MV5BMTY1NDE3NzU0OV5BMl5BanBnXkFtZTgwNTY0NzEwMTE@._V1__SX1379_SY696_.jpg",
         "published": "2014-02-23",
         "category": "Culture",
         "publisher": "SOAS Spirit",
@@ -220,6 +222,7 @@
         "published": "2014-02-06",
         "category": "Social Issues",
         "publisher": "SOAS Spirit",
+        "image": "/img/articles/forced-marriage-through-student-eyes.jpg",
         "tags": "Features, forced marriage, students"
       },
       {
@@ -229,11 +232,13 @@
         "published": "2013-11-20",
         "category": "Social Issues",
         "publisher": "SOAS Spirit",
+        "image": "/img/articles/mental-health-distress-at-universities.jpg",
         "tags": "mental health, students, features"
       },
       {
         "headline": "Zero Dark Thirty",
         "perma": "zero-dark-thirty",
+        "image": "/img/articles/zero-dark-thirty.jpg",
         "link": "http://issuu.com/soasspirit/docs/soasspirit01/c/sc656pn",
         "published": "2013-02-03",
         "category": "Culture",

@@ -1,0 +1,22 @@
+*Wes Anderson’s latest movie is a rollercoaster ride to sit through, but a highly enjoyable one.*
+
+The Phoenix Cinema is London’s oldest continuously running cinemas – it opened in 1912 as the East Finchley Picturedome and although the name’s changed several times, the building has kept its Art Deco magnificence. 
+
+The screening room has retained its original barrel ceiling, and Art Deco friezes were added in the 30’s, all perfectly preserved today. Although the entrance hall reminds one of better days, the cafe upstairs is a nice surprise, selling anything your heart desires at more than reasonable prices – and it’s all free to take inside. All in all, it’s a charming place, which could probably use a bit of a spruce-up, but with student ticket prices starting at £6, we’re definitely sold. 
+
+“The Grand Budapest Hotel” is a cooky affair, a frenzied combination of Agatha Christie whodunit, complete with extravagant décor and eccentric characters, and “Grand Hotel” remake, with everyone potentially high on LSD, director Wes Anderson included. 
+
+“The Grand Budapest...” bears Anderson’s signatory mark and gathers round all his fetish-actors, Bill Murray, Adrien Brody, Owen Wilson, Edward Norton and Tilda Swinton (whose transformation into an 82-year old is amazingly fun and unfortunately not given enough screen-time). Together with Ralph Fiennes, Jude Law and Harvey Keitel (the list goes on, and on...) they make up quite the Hollywood-crowd.
+
+Then again, that’s precisely what the Grand Budapest hotel is about, its extraordinary guests and staff, all either fabulously rich or fabulously quirky, and ruled over by the gentlemanly, energetic, no-nonsense M. Gustave (Ralph Fiennes). 
+
+When one of the hotel’s most celebrated guests, dowager countess Madame Celine Villeneuve Desgoffe und Taxis (Tilda Swinton) unexpectedly dies of strychnine poisoning, M.Gustave gets blamed for her murder, for they were not only lovers (at 82, she was apparently “fantastic in bed”), but he is one of the heirs in her will. Family feud ensues as her sons, Dmitri (Adrien Brody) and Jopling (Willem Dafoe) contest the will and M. Gustave is forced to flee.
+
+All this takes place in the backdrop of the Grand Budapest, in the republic of Zubrowka (no, you can’t find it on the map), in between the two world wars. The changes that World War II will bring are already being felt, the most permeating of which is a sense of an ending – indeed, we first discover the hotel as a shadow of its old past, an image that preempts the fate of its inhabitants. 
+
+Throughout the movie, M. Gustave’s elegant mannerisms are the focus of attention, as a reminder that men like him, and indeed, that whole world, no longer exist. In that regard, it’s a good thing that Zubrowka is an imaginary country, for only there could one still find an enclave of this glorified past.
+
+That being said, this is also a very fun movie, a crazy colours parade, with secret romances and secret wills, a lot of running around and many absurd moments delivered in the best matter-of-fact way. 
+
+A carnival of the absurd, if you will, a fantasy created as an antidote to the realities of the fascist and communist regimes which the movie hints at, especially through the reference to novelist Stefan Zweig, whose writings inspired the script. He famously committed suicide due to the ravages the war had inflicted on that old world, the old Europe he had tried to preserve in his books and it is that same world which “The Grand Budapest Hotel” wants to take us to, albeit with a touch of flamboyance.
+

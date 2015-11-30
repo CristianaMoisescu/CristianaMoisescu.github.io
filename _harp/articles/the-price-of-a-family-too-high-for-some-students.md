@@ -1,0 +1,60 @@
+*The government’s tough stance on immigration has lead to changes in its family settlement laws regarding non-EEA nationals and students are increasingly affected by these changes, finds **Cristiana Moisescu**.*
+
+As of July 2012, the new Family Immigration Law states that if a British citizen wants to bring a non-EEA relative into the country, he must earn £18,600 per annum and continue to do so after the settler’s application has been approved. This financial requirement rises to £22,400 if a child is involved, with another £2,400 for any additional child.
+
+The new rule removes the right to third-party sponsorship and does not take into account the relative’s earnings (whether potential or guaranteed). As the law now stands, 47% of UK nationals would not be able to comply with it should they want to bring a non-EEA relative into the country (Migration Observatory, University of Oxford). Of these, the most affected groups are women (62%) and young people (58%) and while the rules affect any relatives abroad, the greatest impact is being felt by married couples, with families effectively forced to live apart.
+
+On the 4th of March, the Royal Courts of Justice saw the beginning of an appeal trial regarding these laws, brought forward by three separate parties challenging the Home Office. The appeal comes as a response to a trial held in July 2013, where Mr. Justice Blake ruled that the current laws were “so onerous in effect as to be an unjustified and disproportionate interference with a genuine spousal relationship”. He also advised that the financial requirement be lowered to the minimum wage, a move that would be more inclusive. While the trial is ongoing, the government has put all applications on hold – that number currently stands at 3014.
+
+The government estimates that 18,000 Britons are annually affected by these changes in immigration law, and among them are fellow students. Rachel Preston, 23, studying Arabic and Art History at SOAS, has been married for close to a year, to Ahmed, 28, who is a communications engineer, currently living in Cairo.
+
+“I met my husband four years ago, before I came to SOAS, and the plan was always to get married during my year abroad. [...]So we got married last year on the 25th of March –it’s our one year anniversary soon. And since then we’ve just been going back and forth from Cairo on holidays and getting visit visas [...] which give you six months multiple entry.”
+
+They see each other during holidays, but it feels less like married life and more like a long-distance relationship. “I’m married and I’m in a certain place in my life, but my life here without my husband doesn’t really reflect that. It doesn’t feel at all like a married life and it’s very frustrating having to go to Cairo and then leave each other again. And you just can’t plan anything – everyone has plans for after graduation, but my only goal is to try and earn £18,600.”
+
+
+She isn’t alone in this situation. Jan Brulc, the communications manager for the Migrants’ Rights Network (MRN) says that “the income threshold affects a great number of students who are at the beginning of their career and although their earning potential is high, [they] can't provide that sort of income in the early years of their employment. We are in touch with a great deal of students and young people who wish to settle in the UK and start a family. This policy has had a devastating effect on them and many live in uncertainty about their future or have had to move abroad permanently and leave their life in the UK behind them.”
+
+Although the implied message of the government seems to be that UK citizens who cannot comply with the regulations are expendable, Rachel doesn’t want to relocate.
+
+“When people ask why don’t you just move to Cairo... I wouldn’t mind that, but I don’t want to be stuck in a position later down the line, when children are involved, where there might be a reason why I have to come back here and Ahmed still can’t. Also, I’m an only child and I really wouldn’t want to leave, it would be very upsetting for my family if. I also know it’s very stressful for them, because they’re constantly worried that I’ll just get fed up with it and say right, I’m going to Cairo.”
+
+Steven Green, who leads Britcits, a campaign group for families divided by immigration laws, also sees students as a vulnerable group. “Young people are particularly affected - this is the age at which many people are likely to meet their partners, and also the age when people are embarking on a career and less likely to be earning huge salaries. Given that university students are likely to meet their partners while studying - and also that universities are international places - this is a huge issue for students.”
+
+The court comments from last year have given hope to many that there might be an official ruling on the illegality of the laws, as the plaintiffs are arguing that the rules clash with Article 8 of the Human Rights Act, the right to a private and family life. “Our position is that we campaign for the human right of families to be united. We see this as a human rights issue, not an economic issue. Families come in many shapes and sizes,” says Green.
+
+Dr. Ala Sirriyeh, Lecturer in Sociology at Keele University, specializing in migration issues, agrees “that family life is a human right that needs to be protected. In a globalised world families are not always contained within a national border. Unfortunately, these new rules link rights to income levels, meaning some families are less valued.”
+
+The new laws have not been created in a political vacuum, but as a continuation of the government’s tough stance on immigration, which has become the scapegoat for all of Britain’s financial problems. While immigration laws have toughened and anti-immigration narratives increased, it is the poor who are bearing the consequences.
+
+According to the Home Office however, the laws have been put in place to safeguard the British taxpayer, by preventing unlawful immigrants from becoming a burden on the state and by ensuring that their integration is an easier process (the implication being that the less money you have, the less likely you are to integrate well). If you will, a sort of “for the people, against the people” move. What many are now decrying is the dependency link created between earning a certain income and the right to have a family, essentially, the monetization of love.
+
+“We believe that being able to start a family in your own country should not be subject to the amount of money you make”, thinks Jan Brulc; nevertheless, “many genuine families have been kept apart, including children indefinitely separated from a parent with implications for their well-being and development.”
+
+The case for children’s well-being was argued during the 2013 trial, and will likely be repeated at the appeal. In 2013, an all party parliamentary group (APPG) heard evidence from 175 people regarding the impact of the new family immigrations laws on their livelihood. That meeting produced a report which clearly states that while children’s livelihood should fall under the same article 8 of the European Convention of Human Rights (ECHR), there is no sign that this was taken into account in any visa application in which children were involved.
+
+Another interesting aspect is the implication brought by the term ‘immigrant’ – it immediately evokes poor, ‘third world’ origins, low qualifications, and that is the way the term is used in the government’s rhetoric.
+
+In practice, however, the laws affect everyone who is a non-EEA citizen, including members of the Commonwealth and US citizens, who are arguably affluent enough to not ‘be a burden on the state’.
+
+Sirriyeh explains: “There has always been discrimination on the basis of financial status in migration policy. However, I think the new family migration rules heighten this even further. The hierarchical organisation of acceptable and less acceptable international relationships and family reflects class-based inequalities in the government's wider austerity policies. In contrast to transnational elites or 'expats', the new family migration rules imply that those on low incomes who are in international relationships and wish to be reunited with their family are somehow living beyond their means.”
+
+The same APPG report mentioned above highlights some of the ludicrous consequences of the
+new Family Immigration Law.
+
+An Australian national who earns more than £250,000 is not eligible to settle in the UK because his wife, a UK national, has never worked (and does not intend to). Although this is an example of financial extremes, there are countless people who are affected under the same laws because the rules do not take into consideration the income of the non-EEA spouse.
+
+While there is discrepancy in the rhetoric of the government (expat versus immigrant, businessman versus jobseeker), the law acts the same for all, giving way to ridiculous situations which better serve to highlight the absurdity of the rules.
+Many of those the APPG heard also complained of the regional income discrepancy which the financial threshold set in the new rules completely ignores: “[I]f I was doing exactly the same job for the NHS in London I would meet the financial requirement and would be able to bring my wife here so I could carry on with my work and live a happy life.”(Individual submission, West Midlands – as quoted from the APPG Family Migration Inquiry Report June 2013)
+
+Rachel, who is originally from Cornwall, agrees that regional discrimination makes a difference, as well-paying jobs are hard to find away from London. Should the financial threshold be lowered to the minimal wage, “it would put less pressure on me to find a well paying job, as a lot of graduates enter into graduate programmes or internships. It could mean that I could effectively just get a waiting job and work at it for six months, and then hopefully it would be fine.”
+
+According to her, the government has “made these rules because they want to try and cut immigration in any way possible, because they’ve made immigration targets completely unrealistic. They can’t pick on the EU with regards to immigration so they’re going for any other route - non EU students and non-EEA spouses.”
+
+Ironically enough, EU citizens, who fall under EU immigration laws rather than UK/home country law, can bring their non-EEA spouse into the UK. This is known as the Surinder Singh law and it is a route that many UK nationals have considered: move to another EU country for six months, then come back into the UK under EU citizen rights rather than UK ones and bring their spouse/relative with them. Rachel’s aware of this possibility, but thinks “it’s a waste of money” and does not want to uproot her life from the UK or Egypt in order to move to another EU country.
+
+There is no doubt that the new law is financially prohibitive – an application fee alone costs £1051 – and that it’s meant to be that way. The problem is that it’s also disrupting people’s lives, their future and their children’s future.
+
+Rachel’s frustration with this situation only grows when she sees that “one of my friends is buying a flat with her boyfriend right now, another has just bought a house with her boyfriend, and just seeing their combined power, what they can do together... that makes me think [that] I want to be able to plan my future, whether it’s in England or in Cairo, I’d like to be able to have the choice.” Similarly, the new laws have taken away her choice regarding her immediate future: “I would love to do a master’s but can’t do one, [the law is] forcing me to choose between a master’s and my husband”.
+
+The appeal currently being trialed has a lot of potential regarding the government’s response to the way this policy is affecting people, although in all likelihood the case will be taken forwards to the Supreme Court. A ruling is expected in five weeks’ time, although the 2013 trial took five months to offer a decision.
