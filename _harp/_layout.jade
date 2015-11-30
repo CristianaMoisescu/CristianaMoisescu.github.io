@@ -1,0 +1,9 @@
+doctype
+html
+  != partial('_head')
+  body.cm-body
+    != partial('_header')
+    main.cm-main.container
+      .row
+        != yield
+    != partial('_footer')

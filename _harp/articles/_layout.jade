@@ -1,0 +1,66 @@
+- var cmMonths = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'Octomber', 'November', 'December'];
+
+- function getArticle() {
+-   for(var i= 0; i < articles.length; i++) {
+-     if(articles[i].perma === current.source) {
+-       return articles[i];
+-     }
+-   }
+- }
+
+- function cmFancyDate(d) {
+-   var splitDate = d.split('-');
+-   return cmMonths[parseInt(splitDate[1])-1] + ' ' + splitDate[2] + ', ' + splitDate[0];
+- }
+
+- function cmSplitTags(tags) {
+-   var splits = tags.split(',');
+-   var result = [];
+-   for (var i = 0; i < splits.length; i++) {
+-     result.push(splits[i].replace(/^\s+|\s+$/g, ''));
+-   }
+-   return result;
+-}
+
+doctype
+html
+  != partial('../_head')
+  body.cm-article
+    - var article = getArticle()
+
+    main.cm-article--container.container
+      .row
+        .col-xl-8.col-xl-offset-2.col-lg-10.col-lg-offset-1.col-sm-12.cm-article--content
+          a.btn.btn-primary(href='javascript:window.history.back()' aria-label='Go Back') ◄ Return to Articles
+
+          h2.cm-article--title= article.headline
+          span.cm-article--published Published on
+            | #{' '}
+            span= cmFancyDate(article.published)
+            | #{' '}
+            | for
+            | #{' '}
+            span.cm-publisher= article.publisher
+          br
+          span.cm-read-original
+            a(href='#{article.link}') Read article on the original website
+
+          img(src="#{article.image}").cm-article--image.center-block
+
+          != yield
+
+          if article.tags
+            span.cm-article--tags
+              for tag in cmSplitTags(article.tags)
+                span.label.label-default.card-link.cm-article--tag= tag
+          br
+          small Originally published at #{' '}
+            a(href='#{article.link}')
+              != article.link
+          br
+          br
+
+          a.btn.btn-primary(href='javascript:window.history.back()' aria-label='Go Back') ◄ Return to Articles
+
+
+        != partial('_footer')

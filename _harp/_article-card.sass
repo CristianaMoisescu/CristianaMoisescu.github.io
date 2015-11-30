@@ -1,0 +1,48 @@
+.cm-article-card
+.cm-article-card--image
+  background-position: center
+  background-size: cover
+  display: block
+  height: 11rem
+  width: 100%
+  position: relative;
+
+  .cm-article-card-image-overlay
+    bottom: 0
+    left: 0
+    position: absolute;
+    right: 0
+    top: 0
+
+  .cm-article-card-publisher-on-image
+    background: linear-gradient(to bottom, rgba(169,3,41,0.8) 0%, rgba(143,2,34,0.8) 44%, rgba(109,0,25,0.8) 100%);
+    color: #fff
+    display: block
+    font-size: 0.9rem
+    padding: 0.2rem 1rem
+    position: absolute
+    right: 0
+    text-transform: uppercase
+    top: 0
+
+.cm-title-and-chapeau
+  overflow: hidden
+  height: 14rem
+  position: relative
+
+  a, a:hover
+    color: $primary
+    text-decoration: none
+
+  p
+    opacity: 0.6
+
+  &::after
+    background: linear-gradient(rgba(255,255,255,0) 70%, rgba(255,255,255,1))
+    width:100%
+    position: absolute
+    bottom: 0
+    display: block
+    content: 'gradient'
+    line-height: 5rem
+    color: rgba(0,0,0,0)

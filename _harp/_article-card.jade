@@ -1,0 +1,41 @@
+- var cmMonths = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'Octomber', 'November', 'December'];
+- function cmFancyDate(d) {
+-   var splitDate = d.split('-');
+-   return cmMonths[parseInt(splitDate[1])-1] + ' ' + splitDate[0];
+- }
+- function cmSplitTags(tags) {
+-   var splits = tags.split(',');
+-   var result = [];
+-   for (var i = 0; i < splits.length; i++) {
+-     result.push(splits[i].replace(/^\s+|\s+$/g, ''));
+-   }
+-   return result;
+- }
+
+.cm-article-card.col-xl-4.col-lg-6.col-md-12.col-sm-12
+  .card
+    if image
+      .cm-article-card--image(style='background-image: url(#{image})')
+        a.cm-article-card-image-overlay(href='/articles/#{perma}')
+        a.cm-article-card-publisher-on-image(href="#{link}" title="Read the article on the #{publisher} website" target="_blank")= publisher
+
+    .card-block
+      .card-text.cm-title-and-chapeau
+        a(href='/articles/#{perma}')
+          h4.card-title.cm-article-card--title= headline
+        != partial('articles/' + perma)
+
+      if tags
+        br
+        span.cm-article-card--tags
+          for tag in cmSplitTags(tags)
+            span.label.label-default.card-link.cm-article-card--tag= tag
+      br
+      br
+      a.card-link.btn.btn-primary(href="articles/#{perma}") Read more
+      if link
+        a.card-link(href="#{link}" title="Read the article on the #{publisher} website" target="_blank") View original
+
+
+//-      if published
+        span.cm-article-card--published= cmFancyDate(published)

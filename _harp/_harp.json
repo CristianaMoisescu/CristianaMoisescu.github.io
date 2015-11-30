@@ -1,0 +1,245 @@
+{
+  "globals": {
+    "title": "Cristiana Moisescu, Journalist",
+    "description": "The official of Cristiana Moisescu, journalist on Culture, Politics and Social Issues",
+    "menu": [
+      {
+        "label": "Home",
+        "target": "/"
+      },
+      {
+        "label": "Culture",
+        "target": "/culture"
+      },
+      {
+        "label": "Politics",
+        "target": "/politics"
+      },
+      {
+        "label": "Social Issues",
+        "target": "/social-issues"
+      },
+      {
+        "label": "Contact",
+        "target": "/contact"
+      }
+    ],
+    "articles": [
+      {
+        "headline": "‘The day we give in is the day we die’",
+        "perma": "the-day-we-give-in-is-the-day-we-die",
+        "link": "http://newint.org/blog/2015/11/05/romanians-take-to-streets-following-nightclub",
+        "image": "http://newint.org/blog/2015/11/05/05-11-15-romania-590x393.jpg",
+        "published": "2015-11-05",
+        "category": "Politics",
+        "publisher": "New Internationalist",
+        "tags": "Romania, Colectiv"
+      },
+      {
+        "headline": "Frida Kahlo’s Things: Photographing the Possessions of an Icon",
+        "perma": "frida-kahlo-s-things-photographing-the-possessions-of-an-icon",
+        "link": "http://www.theculturetrip.com/europe/united-kingdom/england/london/articles/frida-kahlo-s-things-photographing-the-possessions-of-an-icon-/",
+        "image": "http://static.theculturetrip.com/images/56-3690331-50-s-.jpg",
+        "published": "2015-06-18",
+        "category": "Culture",
+        "publisher": "The Culture Trip",
+        "tags": "Frida Kahlo"
+      },
+      {
+        "headline": "Maryam Abdulhadi al-Khawaja: Bahrain’s revolutionary",
+        "perma": "maryam-abdulhadi-al-khawaja-bahrain-s-revolutionary",
+        "link": "http://newint.org/columns/makingwaves/2015/06/01/maryam-interview-long/",
+        "image": "http://newint.org/columns/makingwaves/2015/05/22/15.05.22-makingwaves-590.jpg",
+        "published": "2015-06-01",
+        "category": "Politics",
+        "publisher": "New Internationalist",
+        "tags": "Bahrain, Arab Spring, Features"
+      },
+      {
+        "headline": "‘The tyrant can’t destroy the art’",
+        "perma": "the-tyrant-can-t-destroy-the-art",
+        "link": "http://newint.org/features/web-exclusive/2015/05/15/oleg-sentsov-ukraine/",
+        "image": "http://newint.org/features/web-exclusive/2015/05/15/olegblog.jpg",
+        "published": "2015-05-15",
+        "category": "Politics",
+        "publisher": "New Internationalist",
+        "tags": "Ukraine, Russia, Oleg Sentsov"
+      },
+      {
+        "headline": "A word with Peter Tatchell",
+        "perma": "a-word-with-peter-tatchell",
+        "link": "http://newint.org/columns/finally/2015/05/01/peter-tatchell-long/",
+        "image": "http://newint.org/columns/finally/2015/04/15/tatchell-590.jpg",
+        "published": "2015-05-01",
+        "category": "Social issues",
+        "publisher": "New Internationalist",
+        "tags": "Peter Tatchell, gay rights"
+      },
+      {
+        "headline": "The Paris attack – a pathway to extremist Europe",
+        "perma": "the-paris-attack-a-pathway-to-extremist-europe",
+        "link": "http://newint.org/blog/2015/01/09/paris-attack-extremism/",
+        "image": "http://newint.org/blog/2015/01/09/parisblog1.jpg",
+        "published": "2015-01-09",
+        "category": "Politics",
+        "publisher": "New Internationalist",
+        "tags": "Charlie Hebdo, Paris attacks, ISIS"
+      },
+      {
+        "headline": "Romania celebrates ‘vote of blind faith’ election victory",
+        "perma": "romania-celebrates-vote-of-blind-faith-election-victory",
+        "link": "http://newint.org/blog/2014/11/19/romanian-elections/",
+        "image": "http://newint.org/blog/2014/11/19/casajurnalistuluiprotesteblog.jpg",
+        "published": "2014-11-19",
+        "category": "Politics",
+        "publisher": "New Internationalist",
+        "tags": "Romania, elections, Victor Ponta"
+      },
+      {
+        "headline": "We are the people, we are the giant",
+        "perma": "we-are-the-people-we-are-the-giant",
+        "link": "http://newint.org/features/web-exclusive/2014/11/14/we-are-the-giant-interview/",
+        "image": "http://newint.org/features/web-exclusive/2014/11/14/stillwearethegiant.jpg",
+        "published": "2014-11-14",
+        "category": "Politics, Culture",
+        "publisher": "New Internationalist",
+        "tags": "Arab Spring, Bahrain"
+      },
+      {
+        "headline": "Syria’s gardens of death",
+        "perma": "syria-s-gardens-of-death",
+        "link": "http://newint.org/features/web-exclusive/2014/10/03/syrias-gardens-of-death/",
+        "image": "http://newint.org/features/web-exclusive/2014/10/03/2014-10-03-syria-590.jpg",
+        "published": "2014-10-03",
+        "category": "Culture",
+        "publisher": "New Internationalist",
+        "tags": "Syria, Arab Spring"
+      },
+      {
+        "headline": "Through the lens: a dreamlike-Egypt",
+        "perma": "through-the-lens-a-dreamlike-egypt",
+        "link": "http://newint.org/features/web-exclusive/2014/09/30/egypt-photographer-el-tantawy/",
+        "image": "http://newint.org/features/web-exclusive/2014/09/30/lauraletantawyblog.jpg",
+        "published": "2014-09-30",
+        "category": "Culture",
+        "publisher": "New Internationalist",
+        "tags": "Egypt, Arab Spring"
+      },
+      {
+        "headline": "Michael Brown is not just another statistic",
+        "perma": "michael-brown-is-not-just-another-statistic",
+        "link": "http://newint.org/blog/2014/08/21/michael-brown-protest-ferguson/",
+        "image": "http://newint.org/blog/2014/08/21/michael%20brown%20debra%20sweet.jpg",
+        "published": "2014-08-21",
+        "category": "Politics, Social Issues",
+        "publisher": "New Internationalist",
+        "tags": "United States, racism, Ferguson"
+      },
+      {
+        "headline": "Corruption crackdown or political power play in Romania?",
+        "perma": "corruption-crackdown-or-political-power-play-in-romania",
+        "link": "http://newint.org/blog/2014/08/12/romanian-politician-convicted/",
+        "image": "http://newint.org/blog/2014/08/12/2014-08-12-%20romania%20corruption%20blog.jpg",
+        "published": "2014-08-12",
+        "category": "Politics",
+        "publisher": "New Internationalist",
+        "tags": "Romania, corruption"
+      },
+      {
+        "headline": "Plot for Peace",
+        "perma": "plot-for-peace",
+        "link": "http://soasspirit.co.uk/features/plot-for-peace/",
+        "image": "http://soasspirit.co.uk/wp-content/uploads/2014/03/slide1.jpg",
+        "published": "2014-03-13",
+        "category": "Culture",
+        "publisher": "SOAS Spirit",
+        "tags": "South Africa"
+      },
+      {
+        "headline": "The price of a family? Too high for some students",
+        "perma": "the-price-of-a-family-too-high-for-some-students",
+        "link": "http://issuu.com/soasspirit/docs/spirit_issue_08/c/sc65g8x",
+        "published": "2014-03-09",
+        "category": "Social issues",
+        "publisher": "SOAS Spirit",
+        "tags": "immigration, students, features"
+      },
+      {
+        "headline": "The Great Budapest Hotel @Phoenix Cinema",
+        "perma": "the-great-budapest-hotel-phoenix-cinema",
+        "link": "http://soasspirit.co.uk/features/the-grand-budapest-hotel-the-phoenix-cinema/",
+        "image": "http://soasspirit.co.uk/wp-content/uploads/2014/03/page-29-Grand-Budapest-Hotel-CREDITS-Fox-Searchlight-CAPTION-M.-Gustave-Ralph-Fiennes-and-Zero-Tony-Revolori-form-a-grand-pair-in-the-Grand-Budapest-Hotel.jpg",
+        "published": "2014-03-02",
+        "category": "Culture",
+        "publisher": "SOAS Spirit"
+      },
+      {
+        "headline": " Is freedom of speech selective?",
+        "perma": "is-freedom-of-speech-selective",
+        "link": "http://soasspirit.co.uk/comment/is-freedom-of-speech-selective/",
+        "image": "http://soasspirit.co.uk/wp-content/uploads/2014/03/hizbhaithamalhaddad.jpg",
+        "published": "2014-02-25",
+        "category": "Politics",
+        "publisher": "SOAS Spirit",
+        "tags": "SOAS, free speech"
+      },
+      {
+        "headline": "Inside Llewyn Davis",
+        "perma": "inside-llewyn-davis",
+        "link": "http://soasspirit.co.uk/features/inside-llewyn-davis/",
+        "image": "http://soasspirit.co.uk/wp-content/uploads/2014/02/Inside-Llewyn-Davis-tease-001.jpg",
+        "published": "2014-02-24",
+        "category": "Culture",
+        "publisher": "SOAS Spirit",
+        "tags": "Film reviews"
+      },
+      {
+        "headline": "Only Lovers Left Alive",
+        "perma": "only-lovers-left-alive",
+        "link": "http://soasspirit.co.uk/features/only-lovers-left-alive/",
+        "image": "http://soasspirit.co.uk/wp-content/uploads/2014/02/only-lovers-left-alive02.jpghttp://soasspirit.co.uk/wp-content/uploads/2014/02/only-lovers-left-alive02.jpg",
+        "published": "2014-02-23",
+        "category": "Culture",
+        "publisher": "SOAS Spirit",
+        "tags": "Film reviews"
+      },
+      {
+        "headline": "The Counselor @Empire Cinema",
+        "perma": "the-counselor-at-empire-cinema",
+        "link": "http://soasspirit.co.uk/features/the-counselor-empire-cinema/",
+        "image": "http://soasspirit.co.uk/wp-content/uploads/2014/02/page-30-The-counselor-CAPTION-Michael-Fassbender-and-Javier-Bardem-two-of-the-stars-in-this-unfortunate-movie-CREDITS-Sony.jpg",
+        "published": "2014-02-13",
+        "category": "Culture",
+        "publisher": "SOAS Spirit",
+        "tags": "Film reviews"
+      },
+      {
+        "headline": "Forced marriage, through student eyes",
+        "perma": "forced-marriage-through-student-eyes",
+        "link": "http://issuu.com/soasspirit/docs/spirit_issue_07/c/sc65rrq",
+        "published": "2014-02-06",
+        "category": "Social Issues",
+        "publisher": "SOAS Spirit",
+        "tags": "Features, forced marriage, students"
+      },
+      {
+        "headline": "Mental health distress at universities",
+        "perma": "mental-health-distress-at-universities",
+        "link": "http://issuu.com/soasspirit/docs/soas_spirit_issue_5/c/sc654qe",
+        "published": "2013-11-20",
+        "category": "Social Issues",
+        "publisher": "SOAS Spirit",
+        "tags": "mental health, students, features"
+      },
+      {
+        "headline": "Zero Dark Thirty",
+        "perma": "zero-dark-thirty",
+        "link": "http://issuu.com/soasspirit/docs/soasspirit01/c/sc656pn",
+        "published": "2013-02-03",
+        "category": "Culture",
+        "publisher": "SOAS Spirit",
+        "tags": "Film reviews"
+      }
+    ]
+  }
+}
