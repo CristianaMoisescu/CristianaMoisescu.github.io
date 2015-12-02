@@ -1,7 +1,5 @@
 *A new documentary on the Arab Spring, **We Are The Giant**, delves into the lives of three activists from Libya, Bahrain and Syria. **Cristiana Moisescu** explores its story.*
 
-Text:
-
 **How did you decide to make this documentary?**
 
 **Greg Barker:** I was very interested in [the concept of] revolution and I spent a lot of time looking at how contemporary events were informed by actions of the past. I was inspired by the people who are standing up for the ideals that helped build the countries that we live in and wanted to tell a story that really explored what it takes to stand up to those ideals and the sacrifices that people have to make.

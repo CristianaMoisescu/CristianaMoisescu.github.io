@@ -5,7 +5,9 @@ One in four. That’s the UK statistic for people who will experience some kind 
 The same report shows that 25% of students questioned experience suicidal thoughts on a daily basis. A 2012 report from the Office of National Statistics states that student suicide has increased by 36% for males and has doubled for females since 2007. A 2011 report from the Royal College of Psychiatrists (RCP) stresses student vulnerability to a broad spectrum of mental health issues, from anxiety and depression to schizophrenia and bipolar disorder (which people between 18 and 25 are particularly prone to developing). The reports are worrying, and they show a clear tendency of rising mental health distress in students.
 
 In all these statistics and numbers however, you find people. Someone you know, a close friend, a member of your family perhaps, might easily be the one in four. At a university like SOAS, with a student body approaching 5000, the number of people experiencing mental health difficulties can only be equally high. So who are the people?
-                                                                            *
+
+----
+
 It’s an early autumn’s day and I’m sitting on a bench next to Tom Mayer, in his back garden. A cat brushes past his hip as he speaks, hands in the air.
 
 “There came a point when I realized what it was and what was happening to me,” he says. The sun’s shining on and he talks fast, enthusiastically, and this makes it difficult to imagine him ever being down, except that he’s talking about his experience with depression.
