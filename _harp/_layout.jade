@@ -3,7 +3,7 @@ html
   != partial('_head')
   body.cm-body
     != partial('_header')
-    main.cm-main.container
+    main.cm-main.container(class='cm-page-#{current.source}')
       .row
         != yield
     != partial('_footer')

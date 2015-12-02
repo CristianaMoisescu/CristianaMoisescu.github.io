@@ -4,6 +4,10 @@
     "description": "The official of Cristiana Moisescu, journalist on Culture, Politics and Social Issues",
     "menu": [
       {
+        "label": "Home",
+        "target": "/"
+      },
+      {
         "label": "Culture",
         "target": "/culture"
       },
@@ -14,6 +18,10 @@
       {
         "label": "Social Issues",
         "target": "/social-issues"
+      },
+      {
+        "label": "Contact",
+        "target": "/contact"
       }
     ],
     "articles": [

@@ -1,7 +1,6 @@
-.container
-  nav.navbar.navbar-dark.bg-inverse.cm-nav
-    ul.nav.navbar-nav
-      for item in menu
-        li(class="#{ current.source == item.target.substr(1) ? 'active' : ''  }").nav-item
-          a(href='#{item.target}').nav-link= item.label
+nav.navbar.navbar-dark.bg-inverse.cm-nav
+  ul.nav.navbar-nav
+    for item in menu
+      li(class="#{ current.source == item.target.substr(1) ? 'active' : ''  }").nav-item
+        a(href='#{item.target}').nav-link= item.label
 
