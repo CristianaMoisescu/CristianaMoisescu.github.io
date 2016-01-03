@@ -14,6 +14,6 @@ For my work there, I was runner-up in the NUS Awards for Best Student
 Journalist of the Year in 2014.
 
 After graduating, I went on to do a year-long editorial internship with
-New Internationalist magazine. 
+New Internationalist magazine.
 
 I am currently the editorial intern at [The Week](http://www.theweek.co.uk/) magazine.
