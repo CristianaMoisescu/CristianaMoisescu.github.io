@@ -16,4 +16,4 @@ Journalist of the Year in 2014.
 After graduating, I went on to do a year-long editorial internship with
 New Internationalist magazine. 
 
-I am currently the editorial intern at [The Week](www.theweek.co.uk/) magazine.
+I am currently the editorial intern at [The Week](http://www.theweek.co.uk/) magazine.
