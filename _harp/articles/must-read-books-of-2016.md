@@ -9,7 +9,8 @@ Barnes has written an ambitious book, says [The Independent](http://www.independ
 
 While you wait: Dreams of My Russian Summers, by Andrei Makine
 
-_Out on 28 January 2016_
+*Out on 28 January 2016*
+***
 
 ### 2.	The High Mountains of Portugal by Yann Martel
 
@@ -17,7 +18,7 @@ This is 'Life of Pi' author Yann Martel's fourth novel, and everyone's buzzing a
 
 While you wait: How to be both, by Ali Smith
 
-_Out on 02 February, 2016_
+*Out on 02 February, 2016*
 
 ### 3.	Thus Bad Begins by Javier Marías
 
@@ -25,7 +26,7 @@ In 1980's Spain, a young man, Juan de Vere, finds himself trapped in an unsettli
 
 While you wait: Rhapsody: A Dream Novel, by Arthur Schnitzler
 
-_Out on 25 February, 2016_
+*Out on 25 February, 2016*
 
 ### 4.	What Is Not Yours Is Not Yours by Helen Oyeyemi
 
@@ -33,7 +34,7 @@ With five novels under her belt and a subsequent Granta nomination for Best Youn
 
 While you wait: Dear Life, by Alice Munro
 
-_Out on 08 March 2016_
+*Out on 08 March 2016*
 
 ### 5.	The Pier Falls by Mark Haddon
 
@@ -41,7 +42,7 @@ He of 'The Curious Incident of a Dog in the Night-time' fame will have his first
 
 While you wait:  The Bazaar of Bad Dreams, by Stephen King
 
-_Out on 10 May, 2016_
+*Out on 10 May, 2016*
 
 ### 6.	Barkskins by Annie Proulx
 
@@ -49,7 +50,7 @@ Annie Proulx has spent ten years working on her latest novel, 'Barkskins', and i
 
 While you wait: Lila, by Marilynne Robinson
 
-_Out on 14 June 2016_
+*Out on 14 June 2016*
 
 ### 7.	Here I Am by Jonathan Safran Foer
 
@@ -57,4 +58,4 @@ Yet another highly anticipated book, 'Here I Am' is Jonathan Safran Foer's first
 
 While you wait: Portnoy's Complaint, by Phillip Roth
 
-_Out in September 2016_
+*Out in September 2016*
