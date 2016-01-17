@@ -14,8 +14,8 @@ On c9.io click on 'Preview'. If you run it locally, go to the address displayed 
 
 (optional) Review changes: `git diff` (Q to exit)
 
-To deploy:
-
+To deploy: content
+0. `git pull` then modify
 1. Regenerate static html: `harp compile _harp ./`
 2. Add all the files to the repository: `git add --all .`
 3. Commit the changes to the repo `git commit -m 'Update site'` (Replace 'Update site' with what you actually did -- e.g. _Update bio with my new prize_)
