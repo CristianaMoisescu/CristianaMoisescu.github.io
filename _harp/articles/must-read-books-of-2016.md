@@ -1,4 +1,4 @@
-We know you're eager to start that 2016 must-read list, so here are a few suggestions
+Eager to start that 2016 must-read list? Here are a few suggestions:
 
 
 **The Noise of Time by Julian Barnes**
@@ -9,7 +9,7 @@ Barnes has written an ambitious book, says [The Independent](http://www.independ
 
 On the contrary, this is "a complex meditation on the power, limitations and likely endurance of art", says Alex Clark at the Guardian, who extolls Barnes for being "neither afraid of extremely high-class erudition nor of writing about sausages. It is a useful skill to have if you want to keep your readers on their toes."
 
-While you wait: Dreams of My Russian Summers, by Andrei Makine
+While you wait: [Dreams of My Russian Summers](https://www.nytimes.com/books/97/08/17/reviews/970817.17brombet.html), by Andrei Makine
 
 *Out on 28 January 2016*
 
@@ -25,7 +25,7 @@ Starting in Lisbon, 1904, where Tomas finds an old journal hinting at a deep sec
 
 It might even turn out to be a serious award contender, and even those who weren't pleased with Martel's latest book, 'Beatrice and Virgil', are putting this on their 'must-read' lists for 2016.
 
-While you wait: How to be both, by Ali Smith
+While you wait: [How to be both](http://www.telegraph.co.uk/culture/books/bookreviews/11061768/How-to-Be-Both-by-Ali-Smith-review-brimming-with-pain-and-joy.html), by Ali Smith
 
 
 *Out on 02 February, 2016*
@@ -40,7 +40,7 @@ As Muriel's wife flits in and out of the book and into other people's beds, Juan
 
 Javier Marías has a knack for exploring disquieting relationships (and pair them with Shakespeare themes, such as this Hamlet-inspired one), and this looks to be a similar affair.
 
-While you wait: Rhapsody: A Dream Novel, by Arthur Schnitzler
+While you wait: [Rhapsody: A Dream Novel](http://www.slate.com/articles/news_and_politics/explainer/1999/07/who_is_arthur_schnitzler.html), by Arthur Schnitzler
 
 *Out on 25 February, 2016*
 
@@ -50,32 +50,44 @@ With five novels under her belt and a subsequent Granta nomination for Best Youn
 
 'What Is Not Yours Is Not Yours' is her first short story collection, inspired by fairy tales and dark secrets, magically reworked throughout the book. Short stories have sometimes been unfairly given a wide berth by readers, so Oyeyemi's book couldn't come at a better time. 
 
-While you wait: Dear Life, by Alice Munro
+While you wait: [Dear Life](http://www.theguardian.com/books/2012/nov/08/dear-life-alice-munro-review), by Alice Munro
 
 *Out on 08 March 2016*
 ** *** **
 
 **The Pier Falls by Mark Haddon**
 
-He of 'The Curious Incident of a Dog in the Night-time' fame will have his first collected short stories published this May. The stories touch upon dark themes such as war, abandonment and natural disasters, all leading to a death of sorts - his wife apparently asked him to write at least one where no one dies - but [Haddon](http://www.newyorker.com/books/page-turner/fiction-this-week-mark-haddon-2015-11-16) says they "are bound together by an empathy for sometimes unlovable people in difficult situations". If your interest is piqued, you can read the first of these, 'The Pier Falls', [here](http://www.newstatesman.com/culture/2014/04/pier-falls-new-short-story-mark-haddon).
+He of 'The Curious Incident of a Dog in the Night-time' fame will have his first collected short stories published this May.
 
-While you wait:  The Bazaar of Bad Dreams, by Stephen King
+The stories touch upon dark themes such as war, abandonment and natural disasters, all leading to a death of sorts - his wife apparently asked him to write at least one where no one dies - but [Haddon](http://www.newyorker.com/books/page-turner/fiction-this-week-mark-haddon-2015-11-16) says they "are bound together by an empathy for sometimes unlovable people in difficult situations". 
+
+If your interest is piqued, you can read the first of these, 'The Pier Falls', [here](http://www.newstatesman.com/culture/2014/04/pier-falls-new-short-story-mark-haddon).
+
+While you wait:  [The Bazaar of Bad Dreams](http://www.theguardian.com/books/2015/nov/04/the-bazaar-of-bad-dreams-stephen-king-review-dark-stories-magic), by Stephen King
 
 *Out on 10 May, 2016*
 ** *** **
 
 **Barkskins by Annie Proulx**
 
-Annie Proulx has spent ten years working on her latest novel, 'Barkskins', and it looks set to become a bestseller even before its publication. Set in 17th century New France, the book spans across generations to tell the story of two French settlers and their trials and sorrows, reaching all the way to China and New Zealand. The book has already been picked up by Scott Rudin Productions, which will turn it into a miniseries, set to premiere globally in 171 countries and 45 languages. Can this be the new Brokeback Mountain?
+Annie Proulx has spent ten years working on her latest novel, 'Barkskins', and it looks set to become a bestseller even before its publication. 
 
-While you wait: Lila, by Marilynne Robinson
+Set in 17th century New France, the book spans across generations to tell the story of two French settlers and their trials and sorrows, reaching all the way to China and New Zealand. 
+
+The book has already been picked up by Scott Rudin Productions, which will turn it into a miniseries, set to premiere globally in 171 countries and 45 languages. Can this be the new Brokeback Mountain?
+
+While you wait: [Lila](http://www.theguardian.com/books/2014/oct/12/lila-marilynne-robinson-review-john-ames-gilead), by Marilynne Robinson
 
 *Out on 14 June 2016*
 ** *** **
 **Here I Am by Jonathan Safran Foer**
 
-Yet another highly anticipated book, 'Here I Am' is Jonathan Safran Foer's first novel since 2005, and there's already much hype around it. Set in today's Washington, DC, it follows the implosion of an American-Jewish family over the course of a month, as divorce and tragedy take hold of their lives, while overseas, a massive earthquake rocks the Middle East and Israel's political foundations. "It’s got this high-wire inventiveness and intensity of imagination in it," says Foer's editor Eric Chinski, while the [New York Times](http://artsbeat.blogs.nytimes.com/2015/12/18/new-novel-from-jonathan-safran-foer-coming-in-september/?_r=0) is quick to point out some interesting autobiographical similarities. 
+Yet another highly anticipated book, 'Here I Am' is Jonathan Safran Foer's first novel since 2005, and there's already much hype around it. 
 
-While you wait: Portnoy's Complaint, by Phillip Roth
+Set in today's Washington, DC, it follows the implosion of an American-Jewish family over the course of a month, as divorce and tragedy take hold of their lives, while overseas, a massive earthquake rocks the Middle East and Israel's political foundations. 
+
+"It’s got this high-wire inventiveness and intensity of imagination in it," says Foer's editor Eric Chinski, while the [New York Times](http://artsbeat.blogs.nytimes.com/2015/12/18/new-novel-from-jonathan-safran-foer-coming-in-september/?_r=0) is quick to point out some interesting autobiographical similarities. 
+
+While you wait: [Portnoy's Complaint](http://www.theguardian.com/books/booksblog/2009/sep/07/portnoys-complaint-shocking-49), by Phillip Roth
 
 *Out in September 2016*
