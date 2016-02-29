@@ -26,6 +26,26 @@
     ],
     "articles": [
       {
+        "headline": "Ted Cruz, the man who beat Donald Trump",
+        "perma": "ted-cruz-iowa",
+        "link": "http://www.theweek.co.uk/us-election-2016/69230/ted-cruz-the-man-who-beat-donald-trump-in-iowa",
+        "image": "http://cdn2.theweek.co.uk/sites/theweek/files/styles/16x9_710/public/2016/02/gty-461740402.jpg?itok=Et61G0-F",
+        "published": "2016-02-03",
+        "category": "Politics",
+        "publisher": "The Week",
+        "tags": "US Elections 2016"
+      },
+      {
+        "headline": "Bernie Sanders, the underdog left of the field",
+        "perma": "bernie-sanders-us-elections",
+        "link": "http://www.theweek.co.uk/us-election-2016/69301/who-is-bernie-sanders-and-can-he-go-all-the-way",
+        "image": "http://cdn2.theweek.co.uk/sites/theweek/files/styles/16x9_710/public/2016/02/cq5dam.web_.1280.1280_1.jpeg?itok=Lit9hVSX",
+        "published": "2016-02-05",
+        "category": "Politics",
+        "publisher": "The Week",
+        "tags": "US Elections 2016"
+      },
+      {
         "headline": "Must-read books of 2016: seven top predictions",
         "perma": "must-read-books-of-2016",
         "link": "http://www.theweek.co.uk/63980/must-read-books-of-2016-five-top-predictions",
