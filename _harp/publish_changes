@@ -1,0 +1,41 @@
+#!/bin/bash
+# Deploy script
+
+# Any subsequent(*) commands which fail will cause the shell script to exit immediately
+set -e
+
+cat << EOT
+Checklist
+=========
+
+Make sure you: 
+1. Updated and save _harp.json file in _harp folder
+2. Added the contents of the article in a "perma-link-title.md" format filename in the "_harp/articles" folder.
+3. Made sure permalink in the _harp.json is the same as the article filename. (wihtout .md extension)
+
+Cheers!
+
+Do you really want to publish? Summarize in 50 characters or less what changes you've made and press ENTER to continue or press Control + C to stop publishing before it happens. Please don't use double quotes or fancy special characters. Comma and dash are fine.
+EOT
+
+echo -n "Complete the sentence, start with capital: My changes should... "
+read CHANGES
+
+echo "Thank you!"
+echo
+
+echo "Compiling (transforming your information to the nice website)..."
+harp compile _harp ./ > /dev/null
+
+echo "Preparing your changes ($CHANGES) to be uploaded to server"
+git add --all .
+git commit -m "$CHANGES"
+
+echo "Retreiving and merging changes from GitHub repository changes so that we're up to date...."
+git pull
+
+echo "Publishing changes to the server"
+git push
+
+echo "Done. Visit http://cristiana.moisescu.com/ to check out if everything is all right."
+
