@@ -25,12 +25,12 @@
           h4.card-title.cm-article-card--title= headline
         != partial('articles/' + perma)
 
-      if tags
+      //- if tags
         br
         span.cm-article-card--tags
           for tag in cmSplitTags(tags)
             span.label.label-default.card-link.cm-article-card--tag= tag
-      br
+      // br
       br
       a.card-link.btn.btn-primary(href="articles/#{perma}") Read more
       if link
