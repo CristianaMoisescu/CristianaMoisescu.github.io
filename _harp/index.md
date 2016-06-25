@@ -16,4 +16,4 @@ Journalist of the Year in 2014.
 After graduating, I went on to do a year-long editorial internship with
 New Internationalist magazine.
 
-I am currently the editorial intern at [CNN](http://www.cnn.com/).
+I am currently the Digital Newsdesk intern at [CNN](http://www.cnn.com/).
