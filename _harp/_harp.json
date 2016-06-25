@@ -26,6 +26,16 @@
     ],
     "articles": [
       {
+        "headline": "Why I have Prince Harry's fork, by artist V-T-R",
+        "perma": "vtr-artist-profile",
+        "link": "http://edition.cnn.com/2016/04/28/arts/forks-exhibition-rudd/",
+        "image": "http://i2.cdn.turner.com/cnnnext/dam/assets/160428124838-fork-exhibition-sepp-blatter-2015-exlarge-169.jpg",
+        "published": "2016-04-28",
+        "category": "Culture",
+        "publisher": "CNN",
+        "tags": "London"
+      },
+      {
         "headline": "World Malaria Day: Funds dwindling after 'success'",
         "perma": "world-malaria-day",
         "link": "http://edition.cnn.com/2016/04/25/health/world-malaria-day-funding/",
