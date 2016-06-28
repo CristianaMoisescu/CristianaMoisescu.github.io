@@ -12,6 +12,9 @@ The march in Borlänge was organized by the Nordic Resistance Movement (NRM), a 
 
 **A portrait of courage**
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="sv" dir="ltr">En av mina foton från nazistdemonstrationen i Borlänge. Noterar att den delas friskt just nu :) <a href="https://twitter.com/hashtag/svpol?src=hash">#svpol</a> <a href="https://twitter.com/hashtag/fotose?src=hash">#fotose</a> <a href="https://t.co/qc3Y3brByK">pic.twitter.com/qc3Y3brByK</a></p>&mdash; David Lagerlöf (@davidlagerlof) <a href="https://twitter.com/davidlagerlof/status/727364334704316416">May 3, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 The episode happened so quickly that Lagerlöf didn't realize how good the photo was until he got home and started checking over his work. It soon became evident "that this was the one," he told CNN.
 
 He posted it early on Tuesday to Twitter, where it has since been shared more than 3,100 times -- including by a rather famous British author.
