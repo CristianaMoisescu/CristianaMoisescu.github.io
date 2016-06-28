@@ -26,6 +26,16 @@
     ],
     "articles": [
       {
+        "headline": "Activists shut down British Museum in BP protest",
+        "perma": "british-museum-protest",
+        "link": "http://edition.cnn.com/2016/05/19/europe/british-museum-protest/",
+        "image": "http://i2.cdn.turner.com/cnnnext/dam/assets/160519154246-greenpeace-protest-british-museum-1-exlarge-169.jpg",
+        "published": "2016-05-19",
+        "category": "Social issues",
+        "publisher": "CNN",
+        "tags": "London"
+      },
+      {
         "headline": "Why I have Prince Harry's fork, by artist V-T-R",
         "perma": "vtr-artist-profile",
         "link": "http://edition.cnn.com/2016/04/28/arts/forks-exhibition-rudd/",
