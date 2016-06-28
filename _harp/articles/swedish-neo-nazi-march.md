@@ -24,6 +24,9 @@ After the incident, Asplund went home and didn't give the march another thought,
 
 Lagerlöf also didn't expect such a fuss when he took the photo and still doesn't know to what extent it has been distributed worldwide. But "when it reaches J.K. Rowling -- I don't know if it can get any bigger than that," he said.
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Look what this woman did. <br><br>Tess Asplund, you are magnificent ❤️<a href="https://t.co/tvOGMM9TUD">https://t.co/tvOGMM9TUD</a> <a href="https://t.co/18qHORBVZG">pic.twitter.com/18qHORBVZG</a></p>&mdash; J.K. Rowling (@jk_rowling) <a href="https://twitter.com/jk_rowling/status/727857473000976385">May 4, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Does Lagerlöf think this image can reach the heights of other celebrated protest photographs?
 
 "I know that there's a lot of speculation about how iconic it might be, but I would take that with a pinch of salt. There's a lot of pictures being produced right now, by a lot of brilliant photographers, and there's a flow of really good photography," he said. "So we'll just have to wait and see."
