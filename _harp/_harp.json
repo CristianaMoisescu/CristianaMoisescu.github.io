@@ -26,6 +26,16 @@
     ],
     "articles": [
       {
+        "headline": "Angelina Jolie could be your teacher",
+        "perma": "angelina-jolie-lse",
+        "link": "http://edition.cnn.com/2016/05/23/europe/angelina-jolie-lse/",
+        "image": "http://i2.cdn.turner.com/cnnnext/dam/assets/160516115925-angelina-jolie-exlarge-169.jpg",
+        "published": "2016-05-23",
+        "category": "Social issues",
+        "publisher": "CNN",
+        "tags": "News"
+      },
+      {
         "headline": "Activists shut down British Museum in BP protest",
         "perma": "british-museum-protest",
         "link": "http://edition.cnn.com/2016/05/19/europe/british-museum-protest/",
