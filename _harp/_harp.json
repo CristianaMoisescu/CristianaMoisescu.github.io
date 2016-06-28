@@ -26,6 +26,16 @@
     ],
     "articles": [
       {
+        "headline": "Warm seas threaten Great Barrier Reef treasure",
+        "perma": "great-barrier-reef-coral-bleaching",
+        "link": "http://edition.cnn.com/2016/05/30/weather/coral-bleach-great-barrier-reef/index.html?eref=edition",
+        "image": "http://i2.cdn.turner.com/cnnnext/dam/assets/160530133734-dead-coral-australia-exlarge-169.jpg",
+        "published": "2016-05-30",
+        "category": "Social issues",
+        "publisher": "CNN",
+        "tags": "News, Environment, Science"
+      },
+      {
         "headline": "Angelina Jolie could be your teacher",
         "perma": "angelina-jolie-lse",
         "link": "http://edition.cnn.com/2016/05/23/europe/angelina-jolie-lse/",
@@ -43,7 +53,7 @@
         "published": "2016-05-19",
         "category": "Social issues",
         "publisher": "CNN",
-        "tags": "London"
+        "tags": "London, News"
       },
       {
         "headline": "Why I have Prince Harry's fork, by artist V-T-R",
@@ -63,7 +73,7 @@
         "published": "2016-04-25",
         "category": "Social issues",
         "publisher": "CNN",
-        "tags": "Science"
+        "tags": "Science, News"
       },
       {
         "headline": "London Tube's 'Mind the gap' announcer Phil Sayer dies",
@@ -73,7 +83,7 @@
         "published": "2016-04-15",
         "category": "Social issues",
         "publisher": "CNN",
-        "tags": "London"
+        "tags": "London, News"
       },
       {
         "headline": "Ted Cruz, the man who beat Donald Trump",
